@@ -1,0 +1,52 @@
+C:\Users\ASUS\Desktop\WebApp\UserRegistrationApp\RepositoryLayer\bin\Debug\net6.0\RepositoryLayer.deps.json
+C:\Users\ASUS\Desktop\WebApp\UserRegistrationApp\RepositoryLayer\bin\Debug\net6.0\RepositoryLayer.dll
+C:\Users\ASUS\Desktop\WebApp\UserRegistrationApp\RepositoryLayer\bin\Debug\net6.0\RepositoryLayer.pdb
+C:\Users\ASUS\Desktop\WebApp\UserRegistrationApp\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\WebApp\UserRegistrationApp\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\WebApp\UserRegistrationApp\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\WebApp\UserRegistrationApp\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\WebApp\UserRegistrationApp\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.dll
+C:\Users\ASUS\Desktop\WebApp\UserRegistrationApp\RepositoryLayer\obj\Debug\net6.0\refint\RepositoryLayer.dll
+C:\Users\ASUS\Desktop\WebApp\UserRegistrationApp\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.pdb
+C:\Users\ASUS\Desktop\WebApp\UserRegistrationApp\RepositoryLayer\obj\Debug\net6.0\ref\RepositoryLayer.dll
+C:\Users\ASUS\Desktop\WebApp\UserRegistrationApp\RepositoryLayer\bin\Debug\net6.0\RepositoryLayer.runtimeconfig.json
+C:\Users\ASUS\Desktop\WebApp\UserRegistrationApp\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\WebApp\UserRegistrationApp\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\WebApp\UserRegistrationApp\RepositoryLayer\bin\Debug\net6.0\ModelLayer.dll
+C:\Users\ASUS\Desktop\WebApp\UserRegistrationApp\RepositoryLayer\bin\Debug\net6.0\ModelLayer.pdb
+C:\Users\ASUS\Desktop\WebApp\UserRegistrationApp\RepositoryLayer\obj\Debug\net6.0\Reposito.A0A61804.Up2Date
+D:\Visual Studio\Register\UserRegistrationApp\RepositoryLayer\bin\Debug\net6.0\RepositoryLayer.deps.json
+D:\Visual Studio\Register\UserRegistrationApp\RepositoryLayer\bin\Debug\net6.0\RepositoryLayer.runtimeconfig.json
+D:\Visual Studio\Register\UserRegistrationApp\RepositoryLayer\bin\Debug\net6.0\RepositoryLayer.dll
+D:\Visual Studio\Register\UserRegistrationApp\RepositoryLayer\bin\Debug\net6.0\RepositoryLayer.pdb
+D:\Visual Studio\Register\UserRegistrationApp\RepositoryLayer\bin\Debug\net6.0\ModelLayer.dll
+D:\Visual Studio\Register\UserRegistrationApp\RepositoryLayer\bin\Debug\net6.0\ModelLayer.pdb
+D:\Visual Studio\Register\UserRegistrationApp\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.csproj.AssemblyReference.cache
+D:\Visual Studio\Register\UserRegistrationApp\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\Register\UserRegistrationApp\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.AssemblyInfoInputs.cache
+D:\Visual Studio\Register\UserRegistrationApp\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.AssemblyInfo.cs
+D:\Visual Studio\Register\UserRegistrationApp\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Register\UserRegistrationApp\RepositoryLayer\obj\Debug\net6.0\Reposito.A0A61804.Up2Date
+D:\Visual Studio\Register\UserRegistrationApp\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.dll
+D:\Visual Studio\Register\UserRegistrationApp\RepositoryLayer\obj\Debug\net6.0\refint\RepositoryLayer.dll
+D:\Visual Studio\Register\UserRegistrationApp\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.pdb
+D:\Visual Studio\Register\UserRegistrationApp\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.genruntimeconfig.cache
+D:\Visual Studio\Register\UserRegistrationApp\RepositoryLayer\obj\Debug\net6.0\ref\RepositoryLayer.dll
+D:\Visual Studio Projects\UserRegistration\RepositoryLayer\bin\Debug\net6.0\RepositoryLayer.deps.json
+D:\Visual Studio Projects\UserRegistration\RepositoryLayer\bin\Debug\net6.0\RepositoryLayer.runtimeconfig.json
+D:\Visual Studio Projects\UserRegistration\RepositoryLayer\bin\Debug\net6.0\RepositoryLayer.dll
+D:\Visual Studio Projects\UserRegistration\RepositoryLayer\bin\Debug\net6.0\RepositoryLayer.pdb
+D:\Visual Studio Projects\UserRegistration\RepositoryLayer\bin\Debug\net6.0\ModelLayer.dll
+D:\Visual Studio Projects\UserRegistration\RepositoryLayer\bin\Debug\net6.0\ModelLayer.pdb
+D:\Visual Studio Projects\UserRegistration\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.csproj.AssemblyReference.cache
+D:\Visual Studio Projects\UserRegistration\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Projects\UserRegistration\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.AssemblyInfoInputs.cache
+D:\Visual Studio Projects\UserRegistration\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.AssemblyInfo.cs
+D:\Visual Studio Projects\UserRegistration\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\UserRegistration\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.sourcelink.json
+D:\Visual Studio Projects\UserRegistration\RepositoryLayer\obj\Debug\net6.0\Reposito.A0A61804.Up2Date
+D:\Visual Studio Projects\UserRegistration\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.dll
+D:\Visual Studio Projects\UserRegistration\RepositoryLayer\obj\Debug\net6.0\refint\RepositoryLayer.dll
+D:\Visual Studio Projects\UserRegistration\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.pdb
+D:\Visual Studio Projects\UserRegistration\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.genruntimeconfig.cache
+D:\Visual Studio Projects\UserRegistration\RepositoryLayer\obj\Debug\net6.0\ref\RepositoryLayer.dll

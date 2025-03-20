@@ -1,0 +1,287 @@
+C:\Users\ASUS\Desktop\WebApp\UserRegistrationApp\UserRegistration\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ASUS\Desktop\WebApp\UserRegistrationApp\UserRegistration\bin\Debug\net6.0\appsettings.json
+C:\Users\ASUS\Desktop\WebApp\UserRegistrationApp\UserRegistration\bin\Debug\net6.0\UserRegistration.staticwebassets.endpoints.json
+C:\Users\ASUS\Desktop\WebApp\UserRegistrationApp\UserRegistration\bin\Debug\net6.0\UserRegistration.exe
+C:\Users\ASUS\Desktop\WebApp\UserRegistrationApp\UserRegistration\bin\Debug\net6.0\UserRegistration.deps.json
+C:\Users\ASUS\Desktop\WebApp\UserRegistrationApp\UserRegistration\bin\Debug\net6.0\UserRegistration.runtimeconfig.json
+C:\Users\ASUS\Desktop\WebApp\UserRegistrationApp\UserRegistration\bin\Debug\net6.0\UserRegistration.dll
+C:\Users\ASUS\Desktop\WebApp\UserRegistrationApp\UserRegistration\bin\Debug\net6.0\UserRegistration.pdb
+C:\Users\ASUS\Desktop\WebApp\UserRegistrationApp\UserRegistration\bin\Debug\net6.0\BusinessLayer.dll
+C:\Users\ASUS\Desktop\WebApp\UserRegistrationApp\UserRegistration\bin\Debug\net6.0\ModelLayer.dll
+C:\Users\ASUS\Desktop\WebApp\UserRegistrationApp\UserRegistration\bin\Debug\net6.0\RepositoryLayer.dll
+C:\Users\ASUS\Desktop\WebApp\UserRegistrationApp\UserRegistration\bin\Debug\net6.0\BusinessLayer.pdb
+C:\Users\ASUS\Desktop\WebApp\UserRegistrationApp\UserRegistration\bin\Debug\net6.0\ModelLayer.pdb
+C:\Users\ASUS\Desktop\WebApp\UserRegistrationApp\UserRegistration\bin\Debug\net6.0\RepositoryLayer.pdb
+C:\Users\ASUS\Desktop\WebApp\UserRegistrationApp\UserRegistration\obj\Debug\net6.0\UserRegistration.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\WebApp\UserRegistrationApp\UserRegistration\obj\Debug\net6.0\UserRegistration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\WebApp\UserRegistrationApp\UserRegistration\obj\Debug\net6.0\UserRegistration.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\WebApp\UserRegistrationApp\UserRegistration\obj\Debug\net6.0\UserRegistration.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\WebApp\UserRegistrationApp\UserRegistration\obj\Debug\net6.0\UserRegistration.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\WebApp\UserRegistrationApp\UserRegistration\obj\Debug\net6.0\UserRegistration.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ASUS\Desktop\WebApp\UserRegistrationApp\UserRegistration\obj\Debug\net6.0\scopedcss\bundle\UserRegistration.styles.css
+C:\Users\ASUS\Desktop\WebApp\UserRegistrationApp\UserRegistration\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ASUS\Desktop\WebApp\UserRegistrationApp\UserRegistration\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ASUS\Desktop\WebApp\UserRegistrationApp\UserRegistration\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+C:\Users\ASUS\Desktop\WebApp\UserRegistrationApp\UserRegistration\obj\Debug\net6.0\staticwebassets\msbuild.UserRegistration.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ASUS\Desktop\WebApp\UserRegistrationApp\UserRegistration\obj\Debug\net6.0\staticwebassets\msbuild.UserRegistration.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\ASUS\Desktop\WebApp\UserRegistrationApp\UserRegistration\obj\Debug\net6.0\staticwebassets\msbuild.build.UserRegistration.props
+C:\Users\ASUS\Desktop\WebApp\UserRegistrationApp\UserRegistration\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.UserRegistration.props
+C:\Users\ASUS\Desktop\WebApp\UserRegistrationApp\UserRegistration\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.UserRegistration.props
+C:\Users\ASUS\Desktop\WebApp\UserRegistrationApp\UserRegistration\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\ASUS\Desktop\WebApp\UserRegistrationApp\UserRegistration\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+C:\Users\ASUS\Desktop\WebApp\UserRegistrationApp\UserRegistration\obj\Debug\net6.0\UserRegi.0FC08637.Up2Date
+C:\Users\ASUS\Desktop\WebApp\UserRegistrationApp\UserRegistration\obj\Debug\net6.0\UserRegistration.dll
+C:\Users\ASUS\Desktop\WebApp\UserRegistrationApp\UserRegistration\obj\Debug\net6.0\refint\UserRegistration.dll
+C:\Users\ASUS\Desktop\WebApp\UserRegistrationApp\UserRegistration\obj\Debug\net6.0\UserRegistration.pdb
+C:\Users\ASUS\Desktop\WebApp\UserRegistrationApp\UserRegistration\obj\Debug\net6.0\UserRegistration.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\WebApp\UserRegistrationApp\UserRegistration\obj\Debug\net6.0\ref\UserRegistration.dll
+C:\Users\ASUS\Desktop\WebApp\UserRegistrationApp\UserRegistration\bin\Debug\net6.0\Humanizer.dll
+C:\Users\ASUS\Desktop\WebApp\UserRegistrationApp\UserRegistration\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS\Desktop\WebApp\UserRegistrationApp\UserRegistration\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ASUS\Desktop\WebApp\UserRegistrationApp\UserRegistration\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ASUS\Desktop\WebApp\UserRegistrationApp\UserRegistration\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ASUS\Desktop\WebApp\UserRegistrationApp\UserRegistration\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ASUS\Desktop\WebApp\UserRegistrationApp\UserRegistration\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ASUS\Desktop\WebApp\UserRegistrationApp\UserRegistration\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ASUS\Desktop\WebApp\UserRegistrationApp\UserRegistration\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ASUS\Desktop\WebApp\UserRegistrationApp\UserRegistration\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ASUS\Desktop\WebApp\UserRegistrationApp\UserRegistration\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ASUS\Desktop\WebApp\UserRegistrationApp\UserRegistration\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\ASUS\Desktop\WebApp\UserRegistrationApp\UserRegistration\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ASUS\Desktop\WebApp\UserRegistrationApp\UserRegistration\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\ASUS\Desktop\WebApp\UserRegistrationApp\UserRegistration\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\ASUS\Desktop\WebApp\UserRegistrationApp\UserRegistration\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\ASUS\Desktop\WebApp\UserRegistrationApp\UserRegistration\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ASUS\Desktop\WebApp\UserRegistrationApp\UserRegistration\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ASUS\Desktop\WebApp\UserRegistrationApp\UserRegistration\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ASUS\Desktop\WebApp\UserRegistrationApp\UserRegistration\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ASUS\Desktop\WebApp\UserRegistrationApp\UserRegistration\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ASUS\Desktop\WebApp\UserRegistrationApp\UserRegistration\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ASUS\Desktop\WebApp\UserRegistrationApp\UserRegistration\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ASUS\Desktop\WebApp\UserRegistrationApp\UserRegistration\bin\Debug\net6.0\System.Collections.Immutable.dll
+C:\Users\ASUS\Desktop\WebApp\UserRegistrationApp\UserRegistration\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ASUS\Desktop\WebApp\UserRegistrationApp\UserRegistration\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ASUS\Desktop\WebApp\UserRegistrationApp\UserRegistration\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\ASUS\Desktop\WebApp\UserRegistrationApp\UserRegistration\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ASUS\Desktop\WebApp\UserRegistrationApp\UserRegistration\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\ASUS\Desktop\WebApp\UserRegistrationApp\UserRegistration\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ASUS\Desktop\WebApp\UserRegistrationApp\UserRegistration\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\ASUS\Desktop\WebApp\UserRegistrationApp\UserRegistration\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\ASUS\Desktop\WebApp\UserRegistrationApp\UserRegistration\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS\Desktop\WebApp\UserRegistrationApp\UserRegistration\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS\Desktop\WebApp\UserRegistrationApp\UserRegistration\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ASUS\Desktop\WebApp\UserRegistrationApp\UserRegistration\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ASUS\Desktop\WebApp\UserRegistrationApp\UserRegistration\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ASUS\Desktop\WebApp\UserRegistrationApp\UserRegistration\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ASUS\Desktop\WebApp\UserRegistrationApp\UserRegistration\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ASUS\Desktop\WebApp\UserRegistrationApp\UserRegistration\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ASUS\Desktop\WebApp\UserRegistrationApp\UserRegistration\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ASUS\Desktop\WebApp\UserRegistrationApp\UserRegistration\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ASUS\Desktop\WebApp\UserRegistrationApp\UserRegistration\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ASUS\Desktop\WebApp\UserRegistrationApp\UserRegistration\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\ASUS\Desktop\WebApp\UserRegistrationApp\UserRegistration\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\ASUS\Desktop\WebApp\UserRegistrationApp\UserRegistration\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ASUS\Desktop\WebApp\UserRegistrationApp\UserRegistration\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ASUS\Desktop\WebApp\UserRegistrationApp\UserRegistration\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ASUS\Desktop\WebApp\UserRegistrationApp\UserRegistration\obj\Debug\net6.0\UserRegistration.MvcApplicationPartsAssemblyInfo.cs
+D:\Visual Studio\Register\UserRegistrationApp\UserRegistration\bin\Debug\net6.0\appsettings.Development.json
+D:\Visual Studio\Register\UserRegistrationApp\UserRegistration\bin\Debug\net6.0\appsettings.json
+D:\Visual Studio\Register\UserRegistrationApp\UserRegistration\bin\Debug\net6.0\UserRegistration.staticwebassets.endpoints.json
+D:\Visual Studio\Register\UserRegistrationApp\UserRegistration\bin\Debug\net6.0\UserRegistration.exe
+D:\Visual Studio\Register\UserRegistrationApp\UserRegistration\bin\Debug\net6.0\UserRegistration.deps.json
+D:\Visual Studio\Register\UserRegistrationApp\UserRegistration\bin\Debug\net6.0\UserRegistration.runtimeconfig.json
+D:\Visual Studio\Register\UserRegistrationApp\UserRegistration\bin\Debug\net6.0\UserRegistration.dll
+D:\Visual Studio\Register\UserRegistrationApp\UserRegistration\bin\Debug\net6.0\UserRegistration.pdb
+D:\Visual Studio\Register\UserRegistrationApp\UserRegistration\bin\Debug\net6.0\Humanizer.dll
+D:\Visual Studio\Register\UserRegistrationApp\UserRegistration\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Visual Studio\Register\UserRegistrationApp\UserRegistration\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Visual Studio\Register\UserRegistrationApp\UserRegistration\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Visual Studio\Register\UserRegistrationApp\UserRegistration\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Visual Studio\Register\UserRegistrationApp\UserRegistration\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Visual Studio\Register\UserRegistrationApp\UserRegistration\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Visual Studio\Register\UserRegistrationApp\UserRegistration\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Visual Studio\Register\UserRegistrationApp\UserRegistration\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Visual Studio\Register\UserRegistrationApp\UserRegistration\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Visual Studio\Register\UserRegistrationApp\UserRegistration\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Visual Studio\Register\UserRegistrationApp\UserRegistration\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Visual Studio\Register\UserRegistrationApp\UserRegistration\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Visual Studio\Register\UserRegistrationApp\UserRegistration\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Visual Studio\Register\UserRegistrationApp\UserRegistration\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Visual Studio\Register\UserRegistrationApp\UserRegistration\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Visual Studio\Register\UserRegistrationApp\UserRegistration\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Visual Studio\Register\UserRegistrationApp\UserRegistration\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Visual Studio\Register\UserRegistrationApp\UserRegistration\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Visual Studio\Register\UserRegistrationApp\UserRegistration\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Visual Studio\Register\UserRegistrationApp\UserRegistration\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Visual Studio\Register\UserRegistrationApp\UserRegistration\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Visual Studio\Register\UserRegistrationApp\UserRegistration\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Visual Studio\Register\UserRegistrationApp\UserRegistration\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Visual Studio\Register\UserRegistrationApp\UserRegistration\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Visual Studio\Register\UserRegistrationApp\UserRegistration\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Visual Studio\Register\UserRegistrationApp\UserRegistration\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Visual Studio\Register\UserRegistrationApp\UserRegistration\bin\Debug\net6.0\System.Collections.Immutable.dll
+D:\Visual Studio\Register\UserRegistrationApp\UserRegistration\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Visual Studio\Register\UserRegistrationApp\UserRegistration\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Visual Studio\Register\UserRegistrationApp\UserRegistration\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Visual Studio\Register\UserRegistrationApp\UserRegistration\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Visual Studio\Register\UserRegistrationApp\UserRegistration\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Visual Studio\Register\UserRegistrationApp\UserRegistration\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Visual Studio\Register\UserRegistrationApp\UserRegistration\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Visual Studio\Register\UserRegistrationApp\UserRegistration\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Visual Studio\Register\UserRegistrationApp\UserRegistration\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Visual Studio\Register\UserRegistrationApp\UserRegistration\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Visual Studio\Register\UserRegistrationApp\UserRegistration\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Visual Studio\Register\UserRegistrationApp\UserRegistration\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Visual Studio\Register\UserRegistrationApp\UserRegistration\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Visual Studio\Register\UserRegistrationApp\UserRegistration\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Visual Studio\Register\UserRegistrationApp\UserRegistration\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Visual Studio\Register\UserRegistrationApp\UserRegistration\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Visual Studio\Register\UserRegistrationApp\UserRegistration\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Visual Studio\Register\UserRegistrationApp\UserRegistration\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Visual Studio\Register\UserRegistrationApp\UserRegistration\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Visual Studio\Register\UserRegistrationApp\UserRegistration\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Visual Studio\Register\UserRegistrationApp\UserRegistration\bin\Debug\net6.0\BusinessLayer.dll
+D:\Visual Studio\Register\UserRegistrationApp\UserRegistration\bin\Debug\net6.0\ModelLayer.dll
+D:\Visual Studio\Register\UserRegistrationApp\UserRegistration\bin\Debug\net6.0\RepositoryLayer.dll
+D:\Visual Studio\Register\UserRegistrationApp\UserRegistration\bin\Debug\net6.0\BusinessLayer.pdb
+D:\Visual Studio\Register\UserRegistrationApp\UserRegistration\bin\Debug\net6.0\ModelLayer.pdb
+D:\Visual Studio\Register\UserRegistrationApp\UserRegistration\bin\Debug\net6.0\RepositoryLayer.pdb
+D:\Visual Studio\Register\UserRegistrationApp\UserRegistration\obj\Debug\net6.0\UserRegistration.csproj.AssemblyReference.cache
+D:\Visual Studio\Register\UserRegistrationApp\UserRegistration\obj\Debug\net6.0\UserRegistration.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\Register\UserRegistrationApp\UserRegistration\obj\Debug\net6.0\UserRegistration.AssemblyInfoInputs.cache
+D:\Visual Studio\Register\UserRegistrationApp\UserRegistration\obj\Debug\net6.0\UserRegistration.AssemblyInfo.cs
+D:\Visual Studio\Register\UserRegistrationApp\UserRegistration\obj\Debug\net6.0\UserRegistration.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Register\UserRegistrationApp\UserRegistration\obj\Debug\net6.0\UserRegistration.MvcApplicationPartsAssemblyInfo.cs
+D:\Visual Studio\Register\UserRegistrationApp\UserRegistration\obj\Debug\net6.0\UserRegistration.MvcApplicationPartsAssemblyInfo.cache
+D:\Visual Studio\Register\UserRegistrationApp\UserRegistration\obj\Debug\net6.0\scopedcss\bundle\UserRegistration.styles.css
+D:\Visual Studio\Register\UserRegistrationApp\UserRegistration\obj\Debug\net6.0\staticwebassets.build.json
+D:\Visual Studio\Register\UserRegistrationApp\UserRegistration\obj\Debug\net6.0\staticwebassets.development.json
+D:\Visual Studio\Register\UserRegistrationApp\UserRegistration\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+D:\Visual Studio\Register\UserRegistrationApp\UserRegistration\obj\Debug\net6.0\staticwebassets\msbuild.UserRegistration.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Visual Studio\Register\UserRegistrationApp\UserRegistration\obj\Debug\net6.0\staticwebassets\msbuild.UserRegistration.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Visual Studio\Register\UserRegistrationApp\UserRegistration\obj\Debug\net6.0\staticwebassets\msbuild.build.UserRegistration.props
+D:\Visual Studio\Register\UserRegistrationApp\UserRegistration\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.UserRegistration.props
+D:\Visual Studio\Register\UserRegistrationApp\UserRegistration\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.UserRegistration.props
+D:\Visual Studio\Register\UserRegistrationApp\UserRegistration\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Visual Studio\Register\UserRegistrationApp\UserRegistration\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+D:\Visual Studio\Register\UserRegistrationApp\UserRegistration\obj\Debug\net6.0\UserRegi.0FC08637.Up2Date
+D:\Visual Studio\Register\UserRegistrationApp\UserRegistration\obj\Debug\net6.0\UserRegistration.dll
+D:\Visual Studio\Register\UserRegistrationApp\UserRegistration\obj\Debug\net6.0\refint\UserRegistration.dll
+D:\Visual Studio\Register\UserRegistrationApp\UserRegistration\obj\Debug\net6.0\UserRegistration.pdb
+D:\Visual Studio\Register\UserRegistrationApp\UserRegistration\obj\Debug\net6.0\UserRegistration.genruntimeconfig.cache
+D:\Visual Studio\Register\UserRegistrationApp\UserRegistration\obj\Debug\net6.0\ref\UserRegistration.dll
+D:\Visual Studio\Register\UserRegistrationApp\UserRegistration\bin\Debug\net6.0\BCrypt.Net-Next.dll
+D:\Visual Studio\Register\UserRegistrationApp\UserRegistration\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Visual Studio\Register\UserRegistrationApp\UserRegistration\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Visual Studio\Register\UserRegistrationApp\UserRegistration\bin\Debug\net6.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\Visual Studio\Register\UserRegistrationApp\UserRegistration\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Visual Studio\Register\UserRegistrationApp\UserRegistration\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Visual Studio\Register\UserRegistrationApp\UserRegistration\bin\Debug\net6.0\Microsoft.Extensions.ObjectPool.dll
+D:\Visual Studio\Register\UserRegistrationApp\UserRegistration\bin\Debug\net6.0\Microsoft.Extensions.WebEncoders.dll
+D:\Visual Studio\Register\UserRegistrationApp\UserRegistration\bin\Debug\net6.0\System.Formats.Asn1.dll
+D:\Visual Studio\Register\UserRegistrationApp\UserRegistration\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\Visual Studio\Register\UserRegistrationApp\UserRegistration\bin\Debug\net6.0\System.Security.Cryptography.Xml.dll
+D:\Visual Studio\Register\UserRegistrationApp\UserRegistration\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Visual Studio\Register\UserRegistrationApp\UserRegistration\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\Visual Studio\Register\UserRegistrationApp\UserRegistration\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Visual Studio Projects\UserRegistration\UserRegistration\bin\Debug\net6.0\appsettings.Development.json
+D:\Visual Studio Projects\UserRegistration\UserRegistration\bin\Debug\net6.0\appsettings.json
+D:\Visual Studio Projects\UserRegistration\UserRegistration\bin\Debug\net6.0\UserRegistration.staticwebassets.endpoints.json
+D:\Visual Studio Projects\UserRegistration\UserRegistration\bin\Debug\net6.0\UserRegistration.exe
+D:\Visual Studio Projects\UserRegistration\UserRegistration\bin\Debug\net6.0\UserRegistration.deps.json
+D:\Visual Studio Projects\UserRegistration\UserRegistration\bin\Debug\net6.0\UserRegistration.runtimeconfig.json
+D:\Visual Studio Projects\UserRegistration\UserRegistration\bin\Debug\net6.0\UserRegistration.dll
+D:\Visual Studio Projects\UserRegistration\UserRegistration\bin\Debug\net6.0\UserRegistration.pdb
+D:\Visual Studio Projects\UserRegistration\UserRegistration\bin\Debug\net6.0\BCrypt.Net-Next.dll
+D:\Visual Studio Projects\UserRegistration\UserRegistration\bin\Debug\net6.0\Humanizer.dll
+D:\Visual Studio Projects\UserRegistration\UserRegistration\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Visual Studio Projects\UserRegistration\UserRegistration\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Visual Studio Projects\UserRegistration\UserRegistration\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Visual Studio Projects\UserRegistration\UserRegistration\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Visual Studio Projects\UserRegistration\UserRegistration\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Visual Studio Projects\UserRegistration\UserRegistration\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Visual Studio Projects\UserRegistration\UserRegistration\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Visual Studio Projects\UserRegistration\UserRegistration\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Visual Studio Projects\UserRegistration\UserRegistration\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Visual Studio Projects\UserRegistration\UserRegistration\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Visual Studio Projects\UserRegistration\UserRegistration\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Visual Studio Projects\UserRegistration\UserRegistration\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Visual Studio Projects\UserRegistration\UserRegistration\bin\Debug\net6.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\Visual Studio Projects\UserRegistration\UserRegistration\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Visual Studio Projects\UserRegistration\UserRegistration\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Visual Studio Projects\UserRegistration\UserRegistration\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Visual Studio Projects\UserRegistration\UserRegistration\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Visual Studio Projects\UserRegistration\UserRegistration\bin\Debug\net6.0\Microsoft.Extensions.ObjectPool.dll
+D:\Visual Studio Projects\UserRegistration\UserRegistration\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Visual Studio Projects\UserRegistration\UserRegistration\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Visual Studio Projects\UserRegistration\UserRegistration\bin\Debug\net6.0\Microsoft.Extensions.WebEncoders.dll
+D:\Visual Studio Projects\UserRegistration\UserRegistration\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Visual Studio Projects\UserRegistration\UserRegistration\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Visual Studio Projects\UserRegistration\UserRegistration\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Visual Studio Projects\UserRegistration\UserRegistration\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Visual Studio Projects\UserRegistration\UserRegistration\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Visual Studio Projects\UserRegistration\UserRegistration\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Visual Studio Projects\UserRegistration\UserRegistration\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Visual Studio Projects\UserRegistration\UserRegistration\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Visual Studio Projects\UserRegistration\UserRegistration\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Visual Studio Projects\UserRegistration\UserRegistration\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Visual Studio Projects\UserRegistration\UserRegistration\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Visual Studio Projects\UserRegistration\UserRegistration\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Visual Studio Projects\UserRegistration\UserRegistration\bin\Debug\net6.0\System.Collections.Immutable.dll
+D:\Visual Studio Projects\UserRegistration\UserRegistration\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Visual Studio Projects\UserRegistration\UserRegistration\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Visual Studio Projects\UserRegistration\UserRegistration\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Visual Studio Projects\UserRegistration\UserRegistration\bin\Debug\net6.0\System.Formats.Asn1.dll
+D:\Visual Studio Projects\UserRegistration\UserRegistration\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Visual Studio Projects\UserRegistration\UserRegistration\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Visual Studio Projects\UserRegistration\UserRegistration\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\Visual Studio Projects\UserRegistration\UserRegistration\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Visual Studio Projects\UserRegistration\UserRegistration\bin\Debug\net6.0\System.Security.Cryptography.Xml.dll
+D:\Visual Studio Projects\UserRegistration\UserRegistration\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Visual Studio Projects\UserRegistration\UserRegistration\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Visual Studio Projects\UserRegistration\UserRegistration\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Visual Studio Projects\UserRegistration\UserRegistration\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Visual Studio Projects\UserRegistration\UserRegistration\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Visual Studio Projects\UserRegistration\UserRegistration\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Visual Studio Projects\UserRegistration\UserRegistration\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Visual Studio Projects\UserRegistration\UserRegistration\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Visual Studio Projects\UserRegistration\UserRegistration\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Visual Studio Projects\UserRegistration\UserRegistration\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Visual Studio Projects\UserRegistration\UserRegistration\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Visual Studio Projects\UserRegistration\UserRegistration\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Visual Studio Projects\UserRegistration\UserRegistration\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Visual Studio Projects\UserRegistration\UserRegistration\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\Visual Studio Projects\UserRegistration\UserRegistration\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Visual Studio Projects\UserRegistration\UserRegistration\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Visual Studio Projects\UserRegistration\UserRegistration\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Visual Studio Projects\UserRegistration\UserRegistration\bin\Debug\net6.0\BusinessLayer.dll
+D:\Visual Studio Projects\UserRegistration\UserRegistration\bin\Debug\net6.0\ModelLayer.dll
+D:\Visual Studio Projects\UserRegistration\UserRegistration\bin\Debug\net6.0\RepositoryLayer.dll
+D:\Visual Studio Projects\UserRegistration\UserRegistration\bin\Debug\net6.0\BusinessLayer.pdb
+D:\Visual Studio Projects\UserRegistration\UserRegistration\bin\Debug\net6.0\ModelLayer.pdb
+D:\Visual Studio Projects\UserRegistration\UserRegistration\bin\Debug\net6.0\RepositoryLayer.pdb
+D:\Visual Studio Projects\UserRegistration\UserRegistration\obj\Debug\net6.0\UserRegistration.csproj.AssemblyReference.cache
+D:\Visual Studio Projects\UserRegistration\UserRegistration\obj\Debug\net6.0\UserRegistration.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Projects\UserRegistration\UserRegistration\obj\Debug\net6.0\UserRegistration.AssemblyInfoInputs.cache
+D:\Visual Studio Projects\UserRegistration\UserRegistration\obj\Debug\net6.0\UserRegistration.AssemblyInfo.cs
+D:\Visual Studio Projects\UserRegistration\UserRegistration\obj\Debug\net6.0\UserRegistration.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\UserRegistration\UserRegistration\obj\Debug\net6.0\UserRegistration.MvcApplicationPartsAssemblyInfo.cs
+D:\Visual Studio Projects\UserRegistration\UserRegistration\obj\Debug\net6.0\UserRegistration.MvcApplicationPartsAssemblyInfo.cache
+D:\Visual Studio Projects\UserRegistration\UserRegistration\obj\Debug\net6.0\UserRegistration.sourcelink.json
+D:\Visual Studio Projects\UserRegistration\UserRegistration\obj\Debug\net6.0\scopedcss\bundle\UserRegistration.styles.css
+D:\Visual Studio Projects\UserRegistration\UserRegistration\obj\Debug\net6.0\staticwebassets.build.json
+D:\Visual Studio Projects\UserRegistration\UserRegistration\obj\Debug\net6.0\staticwebassets.development.json
+D:\Visual Studio Projects\UserRegistration\UserRegistration\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+D:\Visual Studio Projects\UserRegistration\UserRegistration\obj\Debug\net6.0\staticwebassets\msbuild.UserRegistration.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Visual Studio Projects\UserRegistration\UserRegistration\obj\Debug\net6.0\staticwebassets\msbuild.UserRegistration.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Visual Studio Projects\UserRegistration\UserRegistration\obj\Debug\net6.0\staticwebassets\msbuild.build.UserRegistration.props
+D:\Visual Studio Projects\UserRegistration\UserRegistration\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.UserRegistration.props
+D:\Visual Studio Projects\UserRegistration\UserRegistration\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.UserRegistration.props
+D:\Visual Studio Projects\UserRegistration\UserRegistration\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Visual Studio Projects\UserRegistration\UserRegistration\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+D:\Visual Studio Projects\UserRegistration\UserRegistration\obj\Debug\net6.0\UserRegi.0FC08637.Up2Date
+D:\Visual Studio Projects\UserRegistration\UserRegistration\obj\Debug\net6.0\UserRegistration.dll
+D:\Visual Studio Projects\UserRegistration\UserRegistration\obj\Debug\net6.0\refint\UserRegistration.dll
+D:\Visual Studio Projects\UserRegistration\UserRegistration\obj\Debug\net6.0\UserRegistration.pdb
+D:\Visual Studio Projects\UserRegistration\UserRegistration\obj\Debug\net6.0\UserRegistration.genruntimeconfig.cache
+D:\Visual Studio Projects\UserRegistration\UserRegistration\obj\Debug\net6.0\ref\UserRegistration.dll
